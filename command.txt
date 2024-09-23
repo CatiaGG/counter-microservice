@@ -1,0 +1,9 @@
+1. Install dependencies: ```npm install```
+2. Run the build script: ```npm run build```
+3. Package to container: ```npm run package``` -->produce il .tar
+
+modifica nome del .tar in microservice_v1.tar
+
+
+
+
